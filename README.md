@@ -169,3 +169,21 @@ Yes. It worked. You can see student table is copied from onrprem db to azure pos
 
 
 
+
+![image](https://github.com/user-attachments/assets/6fc6822d-2235-4210-a822-65d9b3f82615)  It can take 20 to 30 minutes
+Now DMS Service is up
+
+We need to create a project to proceed further
+
+![image](https://github.com/user-attachments/assets/72cc2978-2dd2-470c-8ea7-82445a6f9166)
+
+![image](https://github.com/user-attachments/assets/71a57e9f-b142-4f91-b1cf-87d6a876d5f3)
+
+![image](https://github.com/user-attachments/assets/b1fe3287-19c1-4df6-87a2-4f23fd5442c5)
+
+![image](https://github.com/user-attachments/assets/1b8e9d91-f247-4d9b-81e6-942f35a5e949)
+
+I had postgres latest version  in Ubuntu, it was not supported by Azure DMS
+
+
+
